@@ -17,7 +17,7 @@ $ cd $GOPATH/src/github.com/qor/qor-example
 $ go run db/seeds/main.go
 $ go run main.go
 
-# cd to your workspace
+cd to your workspace
 git clone git@github.com:theplant/Qor-Example-iOS-Wrapper.git
 
 # Install GYP meta building system if haven't
